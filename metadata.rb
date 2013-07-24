@@ -1,4 +1,4 @@
-name              "chef-sentry-handler"
+name              "chef-sentry-handler-factlink"
 maintainer        "Noah Kantrowitz"
 maintainer_email  "noah@coderanger.net"
 license           "Apache 2.0"
