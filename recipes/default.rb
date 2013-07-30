@@ -11,6 +11,7 @@ chef_gem "uuidtools"
 
 chef_gem "sentry-raven" do
   version "0.4.6"
+  notifies :restart, "service[chef-client]"
 end
 
 handler_file = ::File.join(node["chef_handler"]["handler_path"], 'sentry.rb')
