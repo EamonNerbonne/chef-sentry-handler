@@ -2,8 +2,8 @@
   "sha": "f88116a77339d5f4cc6045042673c4e1c7b5dbe9",
   "sources": {
     "chef-sentry-handler-factlink": {
-      "locked_version": "0.0.3",
-      "constraint": "= 0.0.3",
+      "locked_version": "0.0.4",
+      "constraint": "= 0.0.4",
       "path": "/Users/eamon/dev/fl/cookbook-repos/chef-sentry-handler"
     },
     "chef_handler": {
